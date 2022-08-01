@@ -4,6 +4,7 @@ const Traveller = require("./traveller.js")
 
 
 
+
 module.exports = {
     Location,
     Trip,
